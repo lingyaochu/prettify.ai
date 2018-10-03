@@ -1,0 +1,3 @@
+I want a nice logo for the page. I'll make this by using a generative adversarial network. The blog post then explains how this works, and provides JS access to the GAN to users can try to generate their own logos. 
+
+https://data.vision.ee.ethz.ch/sagea/lld/
